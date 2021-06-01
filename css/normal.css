@@ -96,21 +96,13 @@ body {
 
 
 
-#link_right {
-	float: right;
-}
+	#link_right {
+		float: right;
+	}
 
-#link_left {
-	float: left;
-}
-
-#link_left_now {
-	color: #2a616a;
- 	background-color: #e5e5e5;
-	float: left;
-}
-
-
+	#link_left {
+		float: left;
+	}
 
 
 
