@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-size: 1.45rem;
+    text-align: center;
+}
+
+table {
+    color: white;
+    align-self: center;
+}
+
+
+
+
+.title {
+    background-color: rgb(23, 190, 93);
+    height: 10%;
+    color: white;
+    font-size: 4.5ex;
+}
+
+.first {
+    background-color: rgb(23, 190, 93);
+    color: white;
+    height: 42%;
+}
+
+.second {
+    background-color: rgb(46, 115, 245);
+    height: 52%;
+    color: white;
+}
+
+.third {
+    background-color: black;
+    height: 52%;
+    color: white;
+}
