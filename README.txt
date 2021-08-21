@@ -6,7 +6,7 @@ In general, i have two similar layouts: One for the startpage and one for other 
 
 Evorybody can send/share his/her suggestions for an improvement to:
 	Email: frederickk.schredder@web.de
-	Discord: https://discord.gg/FsvVKE2k
+	Discord: https://discord.gg/XjeR27D3nC
 
 My mission is building a simple website without adds, wich code is open.
 
