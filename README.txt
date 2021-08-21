@@ -11,4 +11,4 @@ Evorybody can send/share his/her suggestions for an improvement to:
 My mission is building a simple website without adds, wich code is open.
 
 
-PS: it can be that i don't invest much time for that project, be aware of that.
+PS: it can be that i don't invest much time for that project, be aware of that, but youre free to make a "fork" of this "project".
