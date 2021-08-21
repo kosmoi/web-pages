@@ -118,7 +118,7 @@ body {
 
 .main a {
 	text-decoration: underline;
-	color: white;
+	color: wheat;
 }
 
 
@@ -150,4 +150,33 @@ body {
 
 #p1 {
 	color: black;
+}
+
+
+
+/* for /en/categories.html and /de/categories.html */
+#chess {
+	background-color: #4e4d38;
+	font-size: 28px;
+}
+#web-dev {
+	background-color: #434e38;
+	font-size: 28px;
+}
+#tennis {
+	background-color: #384e41;
+	font-size: 28px;
+}
+#linux {
+	background-color: #38414e;
+	font-size: 28px;
+}
+#music {
+	background-color: #3d384e;
+	font-size: 28px;
+}
+
+/* for testing/index.html */
+#bigger {
+	font-size: 28;
 }
