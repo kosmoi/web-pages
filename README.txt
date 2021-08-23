@@ -8,7 +8,7 @@ Evorybody can send/share his/her suggestions for an improvement to:
 	Email: frederickk.schredder@web.de
 	Discord: https://discord.gg/XjeR27D3nC
 
-My mission is building a simple website without adds, wich code is open.
+My mission is building a simple website without adds with an open source code.
 
 
 PS: it can be that i don't invest much time for that project, be aware of that, but youre free to make a "fork" of this "project".
